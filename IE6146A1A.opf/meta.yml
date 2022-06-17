@@ -1,0 +1,68 @@
+id: IE6146A1A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:26:04.199100'
+last_modified: '2022-06-17T12:26:04.199108'
+parser: null
+source_metadata:
+  title: Le'u Dünma
+  language: bo
+  description: 'Le''u Dünma (le’u bdun ma), The Prayer in Seven Chapters to Padmākara,
+    the Second Buddha, is a terma revealed in the fourteenth century by Tulku Zangpo
+    Drakpa:'
+  volume:
+    f3313:
+      title: 'Essence of the Profound Path: A General Visualization for Prayers to
+        Guru Rinpoche'
+      base_file: f3313.txt
+      order: 1
+      parent: The General Visualization for Prayers to Guru Rinpoche
+    f4271:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      base_file: f4271.txt
+      order: 2
+      parent: Le'u Dünma
+    f8431:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      base_file: f8431.txt
+      order: 3
+      parent: Le'u Dünma
+    f88AD:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      base_file: f88AD.txt
+      order: 4
+      parent: Le'u Dünma
+    fD63F:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      base_file: fD63F.txt
+      order: 5
+      parent: Le'u Dünma
+    fC35A:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      base_file: fC35A.txt
+      order: 6
+      parent: Le'u Dünma
+    fE698:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      base_file: fE698.txt
+      order: 7
+      parent: Le'u Dünma
+    f77A0:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      base_file: f77A0.txt
+      order: 8
+      parent: Le'u Dünma
+    fE83F:
+      title: The Abbreviated Prayer in Seven Chapters
+      base_file: fE83F.txt
+      order: 9
+      parent: Abbreviated Version
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
